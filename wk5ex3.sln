@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wk5ex3", "wk5ex3\wk5ex3.csproj", "{AE96D127-663A-4A14-A44F-0603FBB5A581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE96D127-663A-4A14-A44F-0603FBB5A581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE96D127-663A-4A14-A44F-0603FBB5A581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE96D127-663A-4A14-A44F-0603FBB5A581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE96D127-663A-4A14-A44F-0603FBB5A581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {164FCB54-C9CB-44BE-9760-FF6F482C8B22}
+	EndGlobalSection
+EndGlobal
