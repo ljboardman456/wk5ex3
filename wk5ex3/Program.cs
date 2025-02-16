@@ -99,5 +99,6 @@ class Program
 
         // Calculate and display the updated total price
         Console.WriteLine($"Updated Total Price: ${cart.CalculateTotalPrice()}");
+        Console.Read();
     }
 }
